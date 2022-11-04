@@ -1,4 +1,6 @@
 # Movies Library App
+I got in mind to follow the instructions on the delivery, including 2 folders, etc., but when I created the nuxt project, I could not see how.
+I could not make the search to work right, the page needs to be refreshed for running a new search each time. So, I'd defenitely fix that in the next version. I planned to add a details page for each movie, I'd add that as well.
 
 ## Build Setup
 
