@@ -1,4 +1,4 @@
-# scrambled-words
+# sMovies Library App
 
 ## Build Setup
 
