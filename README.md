@@ -1,4 +1,4 @@
-# sMovies Library App
+# Movies Library App
 
 ## Build Setup
 
